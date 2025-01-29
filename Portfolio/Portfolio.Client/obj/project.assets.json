@@ -1698,11 +1698,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bryce\\source\\repos\\Portfolio\\Portfolio\\Portfolio.Client\\Portfolio.Client.csproj",
+      "projectUniqueName": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio.Client\\Portfolio.Client.csproj",
       "projectName": "Portfolio.Client",
-      "projectPath": "C:\\Users\\Bryce\\source\\repos\\Portfolio\\Portfolio\\Portfolio.Client\\Portfolio.Client.csproj",
+      "projectPath": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio.Client\\Portfolio.Client.csproj",
       "packagesPath": "C:\\Users\\Bryce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bryce\\source\\repos\\Portfolio\\Portfolio\\Portfolio.Client\\obj\\",
+      "outputPath": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio.Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bryce\\AppData\\Roaming\\NuGet\\NuGet.Config",

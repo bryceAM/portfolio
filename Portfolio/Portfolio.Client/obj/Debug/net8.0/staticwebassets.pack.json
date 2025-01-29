@@ -1,19 +1,19 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Bryce\\source\\repos\\Portfolio\\Portfolio\\Portfolio.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\Bryce\\source\\repos\\Portfolio\\Portfolio\\Portfolio.Client\\obj\\Debug\\net8.0\\compressed\\gb66ptbnhf.gz",
+      "Id": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio.Client\\obj\\Debug\\net8.0\\compressed\\gb66ptbnhf.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\Bryce\\source\\repos\\Portfolio\\Portfolio\\Portfolio.Client\\wwwroot\\appsettings.Development.json",
+      "Id": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio.Client\\wwwroot\\appsettings.Development.json",
       "PackagePath": "staticwebassets\\appsettings.Development.json"
     },
     {
-      "Id": "C:\\Users\\Bryce\\source\\repos\\Portfolio\\Portfolio\\Portfolio.Client\\wwwroot\\appsettings.json",
+      "Id": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio.Client\\wwwroot\\appsettings.json",
       "PackagePath": "staticwebassets\\appsettings.json"
     },
     {

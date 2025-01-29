@@ -1184,11 +1184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bryce\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Portfolio.csproj",
+      "projectUniqueName": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Portfolio.csproj",
       "projectName": "Portfolio",
-      "projectPath": "C:\\Users\\Bryce\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Portfolio.csproj",
+      "projectPath": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Portfolio.csproj",
       "packagesPath": "C:\\Users\\Bryce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bryce\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\obj\\",
+      "outputPath": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bryce\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1206,8 +1206,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Bryce\\source\\repos\\Portfolio\\Portfolio\\Portfolio.Client\\Portfolio.Client.csproj": {
-              "projectPath": "C:\\Users\\Bryce\\source\\repos\\Portfolio\\Portfolio\\Portfolio.Client\\Portfolio.Client.csproj"
+            "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio.Client\\Portfolio.Client.csproj": {
+              "projectPath": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio.Client\\Portfolio.Client.csproj"
             }
           }
         }
