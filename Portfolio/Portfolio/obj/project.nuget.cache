@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r1SBr3/TSZE=",
+  "dgSpecHash": "SYybyiAUov0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bryce\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Portfolio.csproj",
+  "projectFilePath": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Portfolio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bryce\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.11\\microsoft.aspnetcore.authorization.8.0.11.nupkg.sha512",
     "C:\\Users\\Bryce\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.11\\microsoft.aspnetcore.components.8.0.11.nupkg.sha512",

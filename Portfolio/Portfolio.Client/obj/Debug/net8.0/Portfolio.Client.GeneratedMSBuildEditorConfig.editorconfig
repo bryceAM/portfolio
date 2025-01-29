@@ -13,23 +13,23 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Portfolio.Client
 build_property.RootNamespace = Portfolio.Client
-build_property.ProjectDir = C:\Users\Bryce\source\repos\Portfolio\Portfolio\Portfolio.Client\
+build_property.ProjectDir = C:\Users\Bryce\source\repos2\Portfolio\Portfolio.Client\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Bryce\source\repos\Portfolio\Portfolio\Portfolio.Client
+build_property.MSBuildProjectDirectory = C:\Users\Bryce\source\repos2\Portfolio\Portfolio.Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Bryce/source/repos/Portfolio/Portfolio/Portfolio.Client/Pages/About.razor]
+[C:/Users/Bryce/source/repos2/Portfolio/Portfolio.Client/Pages/About.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bryce/source/repos/Portfolio/Portfolio/Portfolio.Client/Pages/Apps.razor]
+[C:/Users/Bryce/source/repos2/Portfolio/Portfolio.Client/Pages/Apps.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bryce/source/repos/Portfolio/Portfolio/Portfolio.Client/_Imports.razor]
+[C:/Users/Bryce/source/repos2/Portfolio/Portfolio.Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
