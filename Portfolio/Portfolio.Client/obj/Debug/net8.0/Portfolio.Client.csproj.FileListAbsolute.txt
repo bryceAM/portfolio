@@ -1027,6 +1027,7 @@ C:\Users\Bryce\source\repos\Portfolio\Portfolio\Portfolio.Client\obj\Debug\net8.
 C:\Users\Bryce\source\repos\Portfolio\Portfolio\Portfolio.Client\obj\Debug\net8.0\refint\Portfolio.Client.dll
 C:\Users\Bryce\source\repos\Portfolio\Portfolio\Portfolio.Client\obj\Debug\net8.0\Portfolio.Client.pdb
 C:\Users\Bryce\source\repos\Portfolio\Portfolio\Portfolio.Client\obj\Debug\net8.0\ref\Portfolio.Client.dll
+C:\Users\Bryce\source\repos2\Portfolio\Portfolio.Client\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio.Client\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.js
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map
@@ -1037,7 +1038,6 @@ C:\Users\Bryce\source\repos2\Portfolio\Portfolio.Client\bin\Debug\net8.0\wwwroot
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio.Client\bin\Debug\net8.0\wwwroot\_framework\icudt_CJK.dat
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio.Client\bin\Debug\net8.0\wwwroot\_framework\icudt_EFIGS.dat
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio.Client\bin\Debug\net8.0\wwwroot\_framework\icudt_no_CJK.dat
-C:\Users\Bryce\source\repos2\Portfolio\Portfolio.Client\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.wasm
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.wasm
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.wasm

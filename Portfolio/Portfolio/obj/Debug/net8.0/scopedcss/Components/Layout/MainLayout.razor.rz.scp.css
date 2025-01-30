@@ -46,6 +46,7 @@ main[b-6s3h03cu1w] {
     .sidebar[b-6s3h03cu1w] {
         position: absolute;
         width: 100%;
+        z-index: 1050;
     }
 
     main[b-6s3h03cu1w] {
