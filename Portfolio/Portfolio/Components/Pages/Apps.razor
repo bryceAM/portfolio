@@ -1,0 +1,15 @@
+﻿@page "/apps"
+
+<PageTitle>Bryce's Portfolio - Apps</PageTitle>
+
+<h1>Apps</h1>
+
+
+@for (int i = 0; i < projectCount; i++)
+{
+    <CardComponent />
+}
+
+@code {
+    int projectCount = 1;
+}

@@ -3,28 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Bryce\\source\\repos2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADBDC892-97BB-4111-BDE4-7BF236048E2E}|Portfolio\\Portfolio.Client\\Portfolio.Client.csproj|c:\\users\\bryce\\source\\repos2\\portfolio\\portfolio.client\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ADBDC892-97BB-4111-BDE4-7BF236048E2E}|Portfolio\\Portfolio.Client\\Portfolio.Client.csproj|solutionrelative:portfolio\\portfolio.client\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\bryce\\source\\repos2\\portfolio\\portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADBDC892-97BB-4111-BDE4-7BF236048E2E}|Portfolio\\Portfolio.Client\\Portfolio.Client.csproj|c:\\users\\bryce\\source\\repos2\\portfolio\\portfolio.client\\pages\\apps.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ADBDC892-97BB-4111-BDE4-7BF236048E2E}|Portfolio\\Portfolio.Client\\Portfolio.Client.csproj|solutionrelative:portfolio\\portfolio.client\\pages\\apps.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ADBDC892-97BB-4111-BDE4-7BF236048E2E}|Portfolio\\Portfolio.Client\\Portfolio.Client.csproj|c:\\users\\bryce\\source\\repos2\\portfolio\\portfolio.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADBDC892-97BB-4111-BDE4-7BF236048E2E}|Portfolio\\Portfolio.Client\\Portfolio.Client.csproj|solutionrelative:portfolio\\portfolio.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\bryce\\source\\repos2\\portfolio\\portfolio\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{ADBDC892-97BB-4111-BDE4-7BF236048E2E}|Portfolio\\Portfolio.Client\\Portfolio.Client.csproj|c:\\users\\bryce\\source\\repos2\\portfolio\\portfolio.client\\portfolio.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ADBDC892-97BB-4111-BDE4-7BF236048E2E}|Portfolio\\Portfolio.Client\\Portfolio.Client.csproj|solutionrelative:portfolio\\portfolio.client\\portfolio.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\bryce\\source\\repos2\\portfolio\\portfolio\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\bryce\\source\\repos2\\portfolio\\portfolio\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\bryce\\source\\repos2\\portfolio\\portfolio\\components\\pages\\apps.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\components\\pages\\apps.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\bryce\\source\\repos2\\portfolio\\portfolio\\components\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\components\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\bryce\\source\\repos2\\portfolio\\portfolio\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\bryce\\source\\repos2\\portfolio\\portfolio\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\bryce\\source\\repos2\\portfolio\\portfolio\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\bryce\\source\\repos2\\portfolio\\portfolio\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\bryce\\source\\repos2\\portfolio\\portfolio\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\bryce\\source\\repos2\\portfolio\\portfolio\\components\\shared\\cardcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\components\\shared\\cardcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\bryce\\source\\repos2\\portfolio\\portfolio\\components\\shared\\cardcomponent.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\components\\shared\\cardcomponent.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,71 +67,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "About.razor",
-              "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio.Client\\Pages\\About.razor",
-              "RelativeDocumentMoniker": "Portfolio\\Portfolio.Client\\Pages\\About.razor",
-              "ToolTip": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio.Client\\Pages\\About.razor",
-              "RelativeToolTip": "Portfolio\\Portfolio.Client\\Pages\\About.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T04:47:40.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Apps.razor",
-              "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio.Client\\Pages\\Apps.razor",
-              "RelativeDocumentMoniker": "Portfolio\\Portfolio.Client\\Pages\\Apps.razor",
-              "ToolTip": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio.Client\\Pages\\Apps.razor",
-              "RelativeToolTip": "Portfolio\\Portfolio.Client\\Pages\\Apps.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T04:47:07.118Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Program.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Program.cs",
+              "ToolTip": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Program.cs",
+              "RelativeToolTip": "Portfolio\\Portfolio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T04:49:23.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "NavMenu.razor.css",
-              "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Components\\Layout\\NavMenu.razor.css",
-              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Layout\\NavMenu.razor.css",
-              "ToolTip": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Components\\Layout\\NavMenu.razor.css",
-              "RelativeToolTip": "Portfolio\\Portfolio\\Components\\Layout\\NavMenu.razor.css",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-29T03:23:20.96Z",
+              "Title": "Portfolio.Client",
+              "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio.Client\\Portfolio.Client.csproj",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio.Client\\Portfolio.Client.csproj",
+              "ToolTip": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio.Client\\Portfolio.Client.csproj",
+              "RelativeToolTip": "Portfolio\\Portfolio.Client\\Portfolio.Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-30T04:47:12.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio.Client\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio.Client\\_Imports.razor",
+              "RelativeToolTip": "Portfolio\\Portfolio.Client\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T04:46:20.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "About.razor",
+              "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Components\\Pages\\About.razor",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Pages\\About.razor",
+              "ToolTip": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Components\\Pages\\About.razor",
+              "RelativeToolTip": "Portfolio\\Portfolio\\Components\\Pages\\About.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T04:34:24.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Portfolio\\Portfolio\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T03:16:14.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "MainLayout.razor.css",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Components\\Layout\\MainLayout.razor.css",
               "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Layout\\MainLayout.razor.css",
               "ToolTip": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Components\\Layout\\MainLayout.razor.css",
               "RelativeToolTip": "Portfolio\\Portfolio\\Components\\Layout\\MainLayout.razor.css",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-01-29T03:20:42.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "Portfolio\\Portfolio\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T03:07:56.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Layout\\NavMenu.razor",
@@ -112,6 +153,84 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-29T02:59:19.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Apps.razor",
+              "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Components\\Pages\\Apps.razor",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Pages\\Apps.razor",
+              "ToolTip": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Components\\Pages\\Apps.razor",
+              "RelativeToolTip": "Portfolio\\Portfolio\\Components\\Pages\\Apps.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T04:13:11.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Components\\_Imports.razor",
+              "RelativeToolTip": "Portfolio\\Portfolio\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T03:22:52.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Portfolio\\Portfolio\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T03:07:56.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Layout\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "Portfolio\\Portfolio\\Components\\Layout\\NavMenu.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-29T03:23:20.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CardComponent.razor",
+              "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Components\\Shared\\CardComponent.razor",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Shared\\CardComponent.razor",
+              "ToolTip": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Components\\Shared\\CardComponent.razor",
+              "RelativeToolTip": "Portfolio\\Portfolio\\Components\\Shared\\CardComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAADkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T03:10:37.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CardComponent.razor.css",
+              "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Components\\Shared\\CardComponent.razor.css",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Shared\\CardComponent.razor.css",
+              "ToolTip": "C:\\Users\\Bryce\\source\\repos2\\Portfolio\\Portfolio\\Components\\Shared\\CardComponent.razor.css",
+              "RelativeToolTip": "Portfolio\\Portfolio\\Components\\Shared\\CardComponent.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-30T03:14:06.817Z",
               "EditorCaption": ""
             }
           ]

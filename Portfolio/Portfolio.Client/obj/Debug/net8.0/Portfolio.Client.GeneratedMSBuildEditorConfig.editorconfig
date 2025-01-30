@@ -22,14 +22,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Bryce\source\repos2\Portfolio\Portfolio.Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Bryce/source/repos2/Portfolio/Portfolio.Client/Pages/About.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Bryce/source/repos2/Portfolio/Portfolio.Client/Pages/Apps.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwcy5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Bryce/source/repos2/Portfolio/Portfolio.Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

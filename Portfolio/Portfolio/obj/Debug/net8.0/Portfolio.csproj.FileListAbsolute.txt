@@ -61,6 +61,14 @@ C:\Users\Bryce\source\repos\Portfolio\Portfolio\Portfolio\obj\Debug\net8.0\refin
 C:\Users\Bryce\source\repos\Portfolio\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.pdb
 C:\Users\Bryce\source\repos\Portfolio\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.genruntimeconfig.cache
 C:\Users\Bryce\source\repos\Portfolio\Portfolio\Portfolio\obj\Debug\net8.0\ref\Portfolio.dll
+C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.csproj.AssemblyReference.cache
+C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.AssemblyInfoInputs.cache
+C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.AssemblyInfo.cs
+C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.sourcelink.json
+C:\Users\Bryce\source\repos2\Portfolio\Portfolio\bin\Debug\net8.0\Portfolio.Client.staticwebassets.runtime.json
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio\bin\Debug\net8.0\appsettings.json
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.dll
@@ -74,7 +82,6 @@ C:\Users\Bryce\source\repos2\Portfolio\Portfolio\bin\Debug\net8.0\BlazorDebugPro
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio\bin\Debug\net8.0\BlazorDebugProxy\Newtonsoft.Json.dll
-C:\Users\Bryce\source\repos2\Portfolio\Portfolio\bin\Debug\net8.0\Portfolio.Client.staticwebassets.runtime.json
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio\bin\Debug\net8.0\Portfolio.staticwebassets.runtime.json
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio\bin\Debug\net8.0\Portfolio.exe
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio\bin\Debug\net8.0\Portfolio.deps.json
@@ -100,13 +107,6 @@ C:\Users\Bryce\source\repos2\Portfolio\Portfolio\bin\Debug\net8.0\Microsoft.JSIn
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio\bin\Debug\net8.0\Portfolio.Client.dll
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio\bin\Debug\net8.0\Portfolio.Client.pdb
-C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.csproj.AssemblyReference.cache
-C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.AssemblyInfoInputs.cache
-C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.AssemblyInfo.cs
-C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.csproj.CoreCompileInputs.cache
-C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.sourcelink.json
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\staticwebassets\msbuild.Portfolio.Microsoft.AspNetCore.StaticWebAssets.props
@@ -116,6 +116,7 @@ C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\staticwebasset
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\scopedcss\Components\Shared\CardComponent.razor.rz.scp.css
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\scopedcss\bundle\Portfolio.styles.css
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\scopedcss\projectbundle\Portfolio.bundle.scp.css
 C:\Users\Bryce\source\repos2\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.csproj.Up2Date

@@ -22,16 +22,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Bryce/source/repos2/Portfolio/Portfolio/Components/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBYm91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bryce/source/repos2/Portfolio/Portfolio/Components/Pages/Apps.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBcHBzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Bryce/source/repos2/Portfolio/Portfolio/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Bryce/source/repos2/Portfolio/Portfolio/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Bryce/source/repos2/Portfolio/Portfolio/Components/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Bryce/source/repos2/Portfolio/Portfolio/Components/Routes.razor]
@@ -49,3 +53,7 @@ build_metadata.AdditionalFiles.CssScope = b-6s3h03cu1w
 [C:/Users/Bryce/source/repos2/Portfolio/Portfolio/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-fw0lmtliz2
+
+[C:/Users/Bryce/source/repos2/Portfolio/Portfolio/Components/Shared/CardComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcQ2FyZENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-7gicsivcrx

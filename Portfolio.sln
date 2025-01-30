@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portfolio", "Portfolio\Portfolio\Portfolio.csproj", "{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Portfolio", "Portfolio\Portfolio\Portfolio.csproj", "{583CD2A5-4ECD-4BC4-8D69-F44306318ED5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portfolio.Client", "Portfolio\Portfolio.Client\Portfolio.Client.csproj", "{ADBDC892-97BB-4111-BDE4-7BF236048E2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Portfolio.Client", "Portfolio\Portfolio.Client\Portfolio.Client.csproj", "{ADBDC892-97BB-4111-BDE4-7BF236048E2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
